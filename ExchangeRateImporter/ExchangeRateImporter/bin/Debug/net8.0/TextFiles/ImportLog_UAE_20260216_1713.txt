@@ -1,0 +1,14 @@
+17:13:38 - EUR BUY: NO UPDATES/INSERTS | Details: 2026-02-16 14:13:38.383| Information - RefCurrency - 0 inserts, 0 updates, 0 deletes
+Information - GlbCompany - 0 inserts, 0 updates, 0 deletes
+Information - RefExchangeRate - 0 inserts, 0 updates, 0 deletes
+17:13:39 - EUR SEL: 1 Insert
+17:13:39 - GBP BUY: 1 Insert
+17:13:39 - GBP SEL: 1 Insert
+17:13:40 - JPY BUY: 1 Insert
+17:13:40 - JPY SEL: 1 Insert
+17:13:40 - SAR BUY: 1 Insert
+17:13:41 - SAR SEL: 1 Insert
+17:13:41 - SGD BUY: 1 Insert
+17:13:41 - SGD SEL: 1 Insert
+17:13:41 - USD BUY: 1 Insert
+17:13:41 - USD SEL: 1 Insert

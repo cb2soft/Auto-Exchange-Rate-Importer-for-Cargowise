@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRateImporter", "ExchangeRateImporter\ExchangeRateImporter.csproj", "{BBFC256A-032D-4EFA-A96A-095B563D8741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFC256A-032D-4EFA-A96A-095B563D8741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFC256A-032D-4EFA-A96A-095B563D8741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFC256A-032D-4EFA-A96A-095B563D8741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFC256A-032D-4EFA-A96A-095B563D8741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A132B560-A3A3-4E32-BCA6-2385F709B03E}
+	EndGlobalSection
+EndGlobal

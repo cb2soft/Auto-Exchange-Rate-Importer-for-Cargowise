@@ -1,0 +1,79 @@
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfoInputs.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfo.cs
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.csproj.CoreCompileInputs.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.exe
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.deps.json
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.runtimeconfig.json
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\refint\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.genruntimeconfig.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\ref\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.exe
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.deps.json
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.runtimeconfig.json
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfoInputs.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfo.cs
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.csproj.CoreCompileInputs.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\refint\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.genruntimeconfig.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\ref\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.exe
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.deps.json
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.runtimeconfig.json
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.csproj.AssemblyReference.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfoInputs.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfo.cs
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.csproj.CoreCompileInputs.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-E.7AFE505A.Up2Date
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\refint\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.genruntimeconfig.cache
+C:\Users\Cevolicious\Desktop\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\ref\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.exe
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.deps.json
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.runtimeconfig.json
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.csproj.AssemblyReference.cache
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfoInputs.cache
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfo.cs
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.csproj.CoreCompileInputs.cache
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-E.7AFE505A.Up2Date
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\refint\Turkey-ExchangeRateImporter.dll
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.genruntimeconfig.cache
+C:\Users\Cevolicious\Desktop\Anti Gravity\Turkey-ExchangeRateImporter - Kopya - Kopya\Turkey-ExchangeRateImporter\obj\Debug\net8.0\ref\Turkey-ExchangeRateImporter.dll
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.exe
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.deps.json
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.runtimeconfig.json
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.csproj.AssemblyReference.cache
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfoInputs.cache
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.AssemblyInfo.cs
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.csproj.CoreCompileInputs.cache
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-E.7AFE505A.Up2Date
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.dll
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\refint\Turkey-ExchangeRateImporter.dll
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.pdb
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\Turkey-ExchangeRateImporter.genruntimeconfig.cache
+C:\Users\cevat\OneDrive\Masaüstü\AntiGravity\Turkey-ExchangeRateImporter\Turkey-ExchangeRateImporter\obj\Debug\net8.0\ref\Turkey-ExchangeRateImporter.dll
