@@ -109,8 +109,8 @@ The program supports dual-server targeting (Test / Production) and handles busin
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Turkey-ExchangeRateImporter.git
-cd Turkey-ExchangeRateImporter
+git clone https://github.com/yourusername/ExchangeRateImporter.git
+cd ExchangeRateImporter
 ```
 
 ### Build
@@ -161,7 +161,7 @@ All sensitive configuration is managed through **Windows Environment Variables**
 ### Command-Line Syntax
 
 ```
-Turkey-ExchangeRateImporter.exe <Country> <Server>
+ExchangeRateImporter.exe <Country> <Server>
 ```
 
 | Parameter | Description | Valid Values |
@@ -173,19 +173,19 @@ Turkey-ExchangeRateImporter.exe <Country> <Server>
 
 ```bash
 # Fetch Turkey rates and import to Test server
-Turkey-ExchangeRateImporter.exe Turkey TST
+ExchangeRateImporter.exe Turkey TST
 
 # Fetch India rates and import to Production server
-Turkey-ExchangeRateImporter.exe India PRD
+ExchangeRateImporter.exe India PRD
 
 # Fetch UAE rates and import to Production server
-Turkey-ExchangeRateImporter.exe UAE PRD
+ExchangeRateImporter.exe UAE PRD
 
 # Fetch Australia rates and import to Production server
-Turkey-ExchangeRateImporter.exe Australia PRD
+ExchangeRateImporter.exe Australia PRD
 
 # Fetch Vietnam rates and import to Production server
-Turkey-ExchangeRateImporter.exe Vietnam PRD
+ExchangeRateImporter.exe Vietnam PRD
 ```
 
 ---
@@ -270,9 +270,9 @@ Every execution generates detailed log files for audit and troubleshooting.
 ## 📁 Project Structure
 
 ```
-Turkey-ExchangeRateImporter/
-├── Turkey-ExchangeRateImporter.sln        # Solution file
-└── Turkey-ExchangeRateImporter/
+ExchangeRateImporter/
+├── ExchangeRateImporter.sln               # Solution file
+└── ExchangeRateImporter/
     ├── Program.cs                         # Main application logic
     │                                      #   - Rate collectors (per country)
     │                                      #   - XML message builders
@@ -283,7 +283,7 @@ Turkey-ExchangeRateImporter/
     │                                      #   - GZip response support
     ├── UniversalResponse.cs               # CargoWise Universal Response model
     │                                      #   - XML deserialization classes
-    ├── Turkey-ExchangeRateImporter.csproj  # Project configuration (.NET 8)
+    ├── ExchangeRateImporter.csproj        # Project configuration (.NET 8)
     ├── SOP.md                             # Standard Operating Procedure (Turkish)
     ├── SOP_EN.md                          # Standard Operating Procedure (English)
     └── Test.bat                           # Quick test script
